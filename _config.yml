@@ -72,7 +72,7 @@ url-pretty: "MattiaVitturi.com"  # eg. "deanattali.com/beautiful-jekyll"
 timezone: "America/Vancouver"
 markdown: kramdown
 highlighter: rouge
-permalink: /:year-:month-:day-:title/
+permalink: /blog/:year-:month-:day-:title/
 paginate: 5
 
 # Default YAML values (more information on Jekyll's site)
