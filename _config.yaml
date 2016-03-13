@@ -1,2 +1,3 @@
 name: Mattia Vitturi personal blog
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
