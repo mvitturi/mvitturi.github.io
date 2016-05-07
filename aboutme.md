@@ -14,4 +14,4 @@ I share my free time between my growing family, my dumb dog and some nerd hobbie
 ### this blog is for ...
 
 ... me.  
-I am totally fine if you discover in here something useful, but this blog is mainly meant for me to keep notes and track my progress. I will talk about my coding experiments, cool stuff I find around, design concepts and tricks to simplify my daily coding life.
+I am totally fine if you discover in here something useful and you want to give me some feedbacks (they are appreciated!), but this blog is mainly meant for me to keep notes and track my progress. I will talk about my coding experiments, cool stuff I find around, design concepts and tricks to simplify my daily coding life.
