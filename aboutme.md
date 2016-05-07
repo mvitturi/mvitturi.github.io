@@ -1,16 +1,15 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Speaking about [](){}
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+### ik ben mattia
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Ciao! I am Mattia Vitturi.
+I am an Italian enthusiast software developer who worked in Malta and now lives in The Netherlands. I share my free time between my growing family, my dumb dog and some nerd hobbies (coding, gaming, painting miniatures).
 
-What else do you need?
+### this blog is for ...
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+... me. 
+I am totally fine you discover in here something useful, but it's mainly meant for me to keep notes and tracks of my progresses. I will speak about my coding experiments, cool stuff I find around, design concepts and tricks to simplify my daily coding life.
