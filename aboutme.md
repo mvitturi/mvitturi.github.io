@@ -6,12 +6,10 @@ subtitle: Speaking about [](){}
 
 ### ik ben mattia
 
-Ciao! I am Mattia Vitturi.
-
+Ciao! I am Mattia Vitturi.  
 I am a grumpy Italian software developer who worked in Malta and now lives in The Netherlands. I share my free time between my growing family, my dumb dog and some nerd hobbies (coding, gaming, painting miniatures).
 
 ### this blog is for ...
 
-... me. 
-
+... me.  
 I am totally fine if you discover in here something useful, but this blog is mainly meant for me to keep notes and track my progress. I will talk about my coding experiments, cool stuff I find around, design concepts and tricks to simplify my daily coding life.
